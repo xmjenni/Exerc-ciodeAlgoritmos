@@ -58,6 +58,13 @@ Código do produto, descrição do produto, preço unitário e quantidade.
 Calcule o valor da compra. Se o valor da compra for acima de 100,00 dar um desconto de 10% senão o desconto deve ser de 5%.
 Imprimir o desconto e o valor da compra de cada cliente com o desconto.<br>
 
+📂 Exercicios-C++ >> 📁 Estruturas-de-Repeticao >> **while_loop_2.cpp**<br>
+O banco Novos Investimentos S/A precisa controlar as contas de seus clientes.
+Crie um algoritmo que informe o número da conta e o saldo de 5 clientes.
+Imprima o número da conta, o saldo e uma das mensagens:
+Saldo positivo ou Saldo negativo.
+Ao final, exiba o total de contas com saldo negativo. <br>
+
 📂 Exercicios-C++ >> 📁 Estruturas-de-Repeticao >> **while_loop_interativa.cpp** <br>
 Inserir números e imprimir o triplo de cada número. O algoritmo encerra quando o número -999 for digitado
 
@@ -72,6 +79,7 @@ Inserir números e imprimir o triplo de cada número. O algoritmo encerra quando
 │
 ├── 📁 Estruturas-de-Repeticao
     ├── while_loop.cpp
+    ├── while_loop_2.cpp
     └── while_loop_interativa.cpp
    
 
