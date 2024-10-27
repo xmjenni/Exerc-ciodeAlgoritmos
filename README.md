@@ -74,7 +74,7 @@ Inserir números e imprimir o triplo de cada número. O algoritmo encerra quando
 📂 Exercicios-C++
 │
 ├── 📁 Estruturas-Condicionais
-│   ├── if_else.cpp
+│   ├── if_else_encadeado.cpp
 │   └── switch_case.cpp
 │
 ├── 📁 Estruturas-de-Repeticao
