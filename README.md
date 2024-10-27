@@ -13,8 +13,8 @@ Este repositório tem como objetivo:
 
 ## Estrutura do Repositório
 
-📂 Exercicios-C++ >> 📁 Estruturas-Condicionais >> **if_else.cpp** <br>
-()<br>
+📂 Exercicios-C++ >> 📁 Estruturas-Condicionais >> **if_else_encadeado.cpp** <br>
+Ler um número e exibir uma das mensagens: Maior que 20, Menor que 20 ou Igual a 20.<br>
 
 📂 Exercicios-C++ >> 📁 Estruturas-Condicionais >> **switch_case.cpp** <br>
 
