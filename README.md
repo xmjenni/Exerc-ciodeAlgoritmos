@@ -68,6 +68,9 @@ Ao final, exiba o total de contas com saldo negativo. <br>
 📂 Exercicios-C++ >> 📁 Estruturas-de-Repeticao >> **while_loop_interativa.cpp** <br>
 Inserir números e imprimir o triplo de cada número. O algoritmo encerra quando o número -999 for digitado
 
+📂 Exercicios-C++ >> 📁 Estruturas-de-Repeticao >> **while_jogodonumerosecreto.cpp** <br>
+Escreva um programa onde o computador "pensa" em um número entre 1 e 100. Peça ao usuário para adivinhar esse número. Cada vez que o usuário errar, o programa deve dar uma dica: "O número é maior" ou "O número é menor". O loop continua até que o usuário acerte o número.
+
 **_Os exercícios estão organizados em pastas de acordo com o tema abordado em aula. A estrutura segue o seguinte padrão:_**
 
 ```plaintext
@@ -80,7 +83,8 @@ Inserir números e imprimir o triplo de cada número. O algoritmo encerra quando
 ├── 📁 Estruturas-de-Repeticao
     ├── while_loop.cpp
     ├── while_loop_2.cpp
-    └── while_loop_interativa.cpp
+    ├── while_loop_interativa.cpp
+    └── while_jogodonumerosecreto.cpp
    
 
 
