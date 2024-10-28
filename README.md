@@ -82,9 +82,9 @@ Escreva um programa onde o computador "pensa" em um número entre 1 e 100. Peça
 │
 ├── 📁 Estruturas-de-Repeticao
     ├── while_loop.cpp
+    ├── while_jogodonumerosecreto.cpp
     ├── while_loop_2.cpp
-    ├── while_loop_interativa.cpp
-    └── while_jogodonumerosecreto.cpp
+    └── while_loop_interativa.cpp
    
 
 
