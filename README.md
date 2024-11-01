@@ -71,6 +71,9 @@ Inserir números e imprimir o triplo de cada número. O algoritmo encerra quando
 📂 Exercicios-C++ >> 📁 Estruturas-de-Repeticao >> **while_jogodonumerosecreto.cpp** <br>
 Escreva um programa onde o computador "pensa" em um número entre 1 e 100. Peça ao usuário para adivinhar esse número. Cada vez que o usuário errar, o programa deve dar uma dica: "O número é maior" ou "O número é menor". O loop continua até que o usuário acerte o número.
 
+📂 Exercicios-C++ >> 📁 Estruturas-de-Repeticao >> **do_while.cpp** <br>
+Receber números enquanto forem positivos. Imprimir quantos números positivos foram digitados. Utilizar a estrutura de repetição pós-teste (do..while).
+
 **_Os exercícios estão organizados em pastas de acordo com o tema abordado em aula. A estrutura segue o seguinte padrão:_**
 
 ```plaintext
