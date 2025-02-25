@@ -11,11 +11,11 @@ int main (){
 	
 	while (i<=4) {
 		
-		printf("Informe o código do produto \n");
+		printf("Informe o cÃ³digo do produto \n");
 		scanf("%d",&codigodoproduto);	
-		printf("Informe a descrição \n");
+		printf("Informe a descriÃ§Ã£o \n");
 		scanf("%s",&descricao);		
-		printf("Informe o preço \n");
+		printf("Informe o preÃ§o \n");
 		scanf("%f",&preco);	
 		printf("Informe a quantidade \n");
 		scanf("%d",&quantidade);
@@ -32,6 +32,8 @@ int main (){
 			valordacompra=valordacompra - desconto;
 			printf("Valor total com desconto %f \n",valordacompra);
 		}
+
+		i++;
 	}
 
 }
